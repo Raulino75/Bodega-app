@@ -2,7 +2,7 @@ package bodega.vista;
 
 import java.util.Scanner;
 
-public class vista {
+public class Vista {
 
     
 
